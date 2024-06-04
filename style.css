@@ -1,0 +1,420 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.zed {
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.main-div {
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.link-div {
+    align-items: center;
+
+    display: flex;
+}
+
+.head-div {
+    display: flex;
+}
+
+.main-div:hover {
+    background-color: rgb(216, 216, 216);
+}
+
+.dop {
+    display: flex;
+}
+
+.dop :hover {
+    background-color: rgb(241, 241, 241);
+}
+
+.fop :hover {
+    background-color: rgb(241, 241, 241);
+}
+
+.star {
+    color: rgb(4, 174, 4);
+    width: 20px;
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div :hover {
+    background-color: rgb(241, 241, 241);
+}
+
+.header {
+    display: flex;
+}
+
+.main-header {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    border-bottom: 1px solid rgb(168, 168, 168);
+}
+
+.upwork {
+    width: 75px;
+}
+
+.k {
+    display: flex;
+}
+
+.li {
+    display: flex;
+    list-style: none;
+    margin: 10px;
+    font-family: roboto;
+}
+
+.lik {
+    display: flex;
+}
+
+.border {
+    border: 0;
+}
+
+.input {
+    border: 0;
+}
+
+.main-container {
+    display: flex;
+
+}
+
+.main-container-2 {
+    height: 30px;
+    align-items: center;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    margin-left: 350px;
+}
+
+li .i {
+    margin-left: 10px;
+}
+
+.main-header {
+    margin-left: 30px;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 0;
+
+}
+
+.btn-2 {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    border: 0;
+    background-color: rgb(4, 174, 4);
+    color: white;
+}
+
+.opt {
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 174, 4);
+    margin-top: 40px;
+}
+
+.bnt {
+    border: 0;
+    background-color: rgb(4, 174, 4);
+    width: 130px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+.de {
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.kil {
+    display: flex;
+    align-items: center;
+
+}
+
+.old {
+    margin: 20px;
+}
+
+.im {
+    margin-left: 300px;
+}
+
+.wsa {
+    width: 30px;
+}
+
+.kil-f {
+    margin-top: 400px;
+}
+
+.bf {
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.ss {
+    font-size: 20px;
+    font-family: roboto;
+    color: rgb(173, 173, 173);
+}
+
+.kil-s {
+    margin-left: 20px;
+}
+
+.io {
+    width: 400px;
+}
+
+.min {
+    width: 500px;
+    background-color: beige;
+}
+
+.dg {
+    font-size: 50px;
+}
+
+.nim {
+    display: flex;
+
+
+}
+
+.min-3 {
+    display: flex;
+}
+
+.para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.per {
+    font-family: roboto;
+}
+
+.ui {
+    width: 30px;
+}
+
+.try {
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.name-1 {
+    display: flex;
+}
+
+.btn-s {
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid rgb(4, 174, 4);
+    color: rgb(4, 174, 4);
+    background-color: transparent;
+}
+
+.btn-d {
+    width: 150px;
+    height: 40px;
+    border: 0;
+    background-color: rgb(4, 174, 4);
+    border-radius: 30px;
+    color: white;
+}
+
+.name {
+    margin-left: 20px;
+}
+
+.name-3 {
+    display: flex;
+}
+
+.px-10 {
+    font-size: 45px;
+}
+
+.box {
+    width: 250px;
+    border: 0;
+    background-color: rgb(245, 245, 245);
+    margin-top: 20px;
+
+}
+
+.main-box :hover {
+    background-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+
+.peo {
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.box .i {
+    color: rgb(4, 174, 4);
+}
+
+.quine {
+    color: rgb(4, 174, 4);
+    width: 20px;
+
+}
+
+.pp {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 25px;
+    margin-top: -20px;
+}
+
+.quest {
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 300px;
+    color: white;
+    padding: 10px;
+}
+
+.miki {
+    background-color: #13544E;
+    width: 750px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 30px;
+}
+
+.dump {
+    font-size: 50px;
+    font-weight: 200px;
+    margin-left: 20px;
+    font-family: "Merriweather";
+    color: white;
+}
+
+.gi {
+    color: #91E6B3;
+    font-family: "Merriweather";
+}
+
+.gmail {
+    background-image: url("https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/f_auto,q_auto/brontes/for-enterprise/enterprise-2023.jpg");
+    width: 500px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 600px;
+    background-position: -190px;
+}
+
+.gi-2 {
+    font-size: 20px;
+    font-family: roboto;
+    color: white;
+}
+
+.width {
+    font-size: 20px;
+    color: white;
+    font-family: roboto;
+}
+
+.br {
+    display: flex;
+    margin: 0 70px;
+}
+
+.tool {
+    display: flex;
+}
+
+.tool-1 {
+    display: flex;
+}
+
+.dump-1 {
+    font-size: 20px;
+    font-family: roboto;
+    color: white;
+}
+
+.btn-p {
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    border: 0;
+    background-color: white;
+    color: rgb(4, 105, 4);
+    font-size: 20px;
+}
+
+.human-1 {
+   width:85%;
+   border-radius: 5px;
+   background-repeat: no-repeat;
+   height: 95vh;
+   margin-left: 70px;
+   background-size: cover;
+   margin-top: 40px;
+   background-image: url("https://res.cloudinary.com/upwork-cloud-acquisition-prod/image/upload/c_scale/brontes/delivery-models/find-talent-2x.jpg");
+}
+.human-1 .op{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    margin-bottom: 10%;
+}
+.human-1 h1{
+    font-size: 70px;
+    color: white;
+}
+.was{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    margin-bottom: 10%;
+}
+
+.mr-3 {
+    margin-right: 20px;
+}
